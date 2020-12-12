@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Rushikesh
 
-I am a M.Tech Computer Science Student and aspiring Data Scientist. This repository contains my Masters project and other data science related projects.
+Machine Learning, Deep Learning, and Cloud Enthusiast. Like to explore new things, enhancing and expanding my knowledge each and every day! I like to play with data, execute analytical experiments, to create a positive impact across various domains and industries. 
 
 I have hands on experience in Machine Learning, Natural Language Processing. Solid Programming expertise in Python, Object Oriented analysis/methodologies.
 
@@ -16,7 +16,7 @@ I have hands on experience in Machine Learning, Natural Language Processing. Sol
 <li> Git, AWS
 <li> Web technologies like HTML, CSS, JS </li>
   
-Social Profiles
+ 📫 How to reach me:
 <a href="https://www.linkedin.com/in/rushikesh-konapure/">LinkedIn</a> | <a href="https://www.kaggle.com/rishikeshkonapure">Kaggle</a>
 
 <!--
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
