@@ -4,6 +4,10 @@ Machine Learning, Deep Learning, and Cloud Enthusiast. Like to explore new thing
 
 I have hands on experience in Machine Learning, Natural Language Processing. Solid Programming expertise in Python, Object Oriented analysis/methodologies.
 
+📫 How to reach me:
+<a href="https://www.linkedin.com/in/rushikesh-konapure/">LinkedIn</a> | <a href="https://www.kaggle.com/rishikeshkonapure">Kaggle</a> | <a href="https://www.instagram.com/mlwithrish/">Instagram</a>
+
+
 ## Skills:
 
 <ul>
@@ -16,9 +20,7 @@ I have hands on experience in Machine Learning, Natural Language Processing. Sol
 <li> Git, AWS
 <li> Web technologies like HTML, CSS, JS </li>
   
- 📫 How to reach me:
-<a href="https://www.linkedin.com/in/rushikesh-konapure/">LinkedIn</a> | <a href="https://www.kaggle.com/rishikeshkonapure">Kaggle</a>
-
+ 
 <!--
 **rishikonapure/rishikonapure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
