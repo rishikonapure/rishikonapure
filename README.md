@@ -20,6 +20,7 @@ I am a Machine Learning, Deep Learning, and Cloud Enthusiast. I like to explore 
 
 ## My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python 101 : *args and **kwargs](https://medium.com/analytics-vidhya/python-101-args-and-kwargs-e27f7a0b3de9)
 - [Python Basics for Data Science — I](https://medium.com/analytics-vidhya/python-basics-for-data-science-i-7845ff1f3c6e)
 - [Why I chose Data Science?](https://medium.com/analytics-vidhya/why-i-chose-data-science-b98cee42ecbd)
 - [Setting up working environment for Machine Learning](https://medium.com/analytics-vidhya/setting-up-working-environment-for-machine-learning-a1b7affddc91)
