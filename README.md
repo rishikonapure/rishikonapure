@@ -36,7 +36,7 @@ I am a Machine Learning, Deep Learning, and Cloud Enthusiast. I like to explore 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://rishikonapure.medium.com/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/mlwithrish/)
 
-  
+<img align="left" alt="Rushikesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rishikonapure&show_icons=true&hide_border=true" />  
  
 <!--
 **rishikonapure/rishikonapure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
