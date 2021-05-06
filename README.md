@@ -15,7 +15,8 @@ I am a Machine Learning, Deep Learning, and Cloud Enthusiast. I like to explore 
 
 
 **Recent Update**:
-- **Jan 2020**: Our paper [Text Data Analysis for Advertisement Recommendation System Using Multi-label Classification of Machine Learning](http://matjournals.in/index.php/JoDMM/article/view/4521) has been published in Journal of Data Mining and Management ([MAT Journals](http://matjournals.com/Journal-of-Data-Mining-and-Management.html)).
+- **May 2021**: Research paper [Video Content-Based Advertisement Recommendation System using Classification Technique of Machine Learning](https://iopscience.iop.org/article/10.1088/1742-6596/1854/1/012025) has been published in Journal of Physics: Conference Series ([IOPscience](https://iopscience.iop.org/))
+- **Jan 2020**:Idea paper [Text Data Analysis for Advertisement Recommendation System Using Multi-label Classification of Machine Learning](http://matjournals.in/index.php/JoDMM/article/view/4521) has been published in Journal of Data Mining and Management ([MAT Journals](http://matjournals.com/Journal-of-Data-Mining-and-Management.html)).
 
 
 ## My Latest Blog Posts
