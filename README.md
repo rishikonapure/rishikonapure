@@ -40,6 +40,17 @@ I am a Machine Learning, Deep Learning, and Cloud Enthusiast. I like to explore 
 
 <img align="left" alt="Rushikesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rishikonapure&show_icons=true&hide_border=true" />  
  
+<div align="center">
+        
+   ## Visitor Count
+   ![Visitor Count](https://profile-counter.glitch.me/{smahesh29}/count.svg)
+        
+</div>
+
+<div align="center">
+  
+<b>❤️ Thank you for visiting my Github Profile ❤️</b>
+</div>
 <!--
 **rishikonapure/rishikonapure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
