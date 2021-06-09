@@ -43,7 +43,7 @@ I am a Machine Learning, Deep Learning, and Cloud Enthusiast. I like to explore 
 <div align="center">
         
    ## Visitor Count
-   ![Visitor Count](https://profile-counter.glitch.me/{smahesh29}/count.svg)
+   ![Visitor Count](https://profile-counter.glitch.me/{rishikonapure}/count.svg)
         
 </div>
 
