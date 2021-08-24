@@ -1,4 +1,4 @@
-### Hi there, I'm [Rushikesh Konapure](https://rishikonapure.medium.com/) 👋
+### Hi there, I'm [Rushikesh Konapure](https://linktr.ee/mlwithrish) 👋
 
 I am a Machine Learning, Deep Learning, and Cloud Enthusiast. I like to explore new things, enhancing and expanding my knowledge each and every day! I like to play with data, execute analytical experiments, to create a positive impact across various domains and industries.  Apart from that I write articles (on Machine Learning and Data Science) and contributing to open source.
 
