@@ -3,10 +3,6 @@
 I am a Machine Learning, Deep Learning, and Cloud Enthusiast. I like to explore new things, enhancing and expanding my knowledge each and every day! I like to play with data, execute analytical experiments, to create a positive impact across various domains and industries.  Apart from that I write articles (on Machine Learning and Data Science) and contributing to open source.
 
 
-- 💻 Currently doing #100daysofmlcode challenge and posting daily progress on [Instagram](https://www.instagram.com/mlwithrish/) and [Github](https://github.com/rishikonapure/-100daysofmlcode). The aim of this project is to learn machine learning algorithms from scratch.
-- 👨🏽‍💻 Currently growing my skillset in [Machine Learning](https://github.com/rishikonapure/-100daysofmlcode) and [Data Science](https://github.com/rishikonapure/-100daysofmlcode).
-
-
  **I am open to**:
 
 - any collobration work,
